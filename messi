@@ -1,0 +1,10 @@
+    <header>
+        <nav>
+            <a href="index.html" class="logo">Mac Store</a>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="vista_producto.html">Productos</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
